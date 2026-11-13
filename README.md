@@ -39,6 +39,7 @@
 
 ## Структура проекта
 docs/
+├──diagramma
 frontend/
 services/
 ├── tournament-service/
